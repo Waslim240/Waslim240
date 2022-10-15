@@ -6,9 +6,5 @@
 </p>
 
 ### Github Statistic
-<p align="left">
-<a href="https://github.com/Waslim240">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Waslim240&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Waslim240&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<img src= "https://github-readme-stats.vercel.app/api?username=ikhwanma&count_private=true&theme=cobalt"/></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhwanma&show_icons=true&locale=en&layout=compact&theme=cobalt&border_radius=15" alt="ikhwanma" /></p>
