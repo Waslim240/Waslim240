@@ -6,5 +6,5 @@
 </p>
 
 ### Github Statistic
-<img src= "https://github-readme-stats.vercel.app/api?username=ikhwanma&count_private=true&theme=cobalt"/></p>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhwanma&show_icons=true&locale=en&layout=compact&theme=cobalt&border_radius=15" alt="ikhwanma" /></p>
+<img src= "https://github-readme-stats.vercel.app/api?username=Waslim240&count_private=true&theme=cobalt"/></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Waslim240&show_icons=true&locale=en&layout=compact&theme=cobalt&border_radius=15" alt="waslim" /></p>
